@@ -29,6 +29,6 @@ This manual is provided without any gurantee and author isn't responsible for st
 
 ### Extra
 I've got a picture of my board by seller. 
-![](https://ae01.alicdn.com/kf/HTB13_aMwVkoBKNjSZFEq6zrEVXay/NRF52840-Bluetooth-5-ZIGBEE-Bluetooth.jpg)
+![](board.jpg)
 
 And also a link to a [seller](https://aliexpress.ru/item/32919832696.html).
