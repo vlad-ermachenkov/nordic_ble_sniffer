@@ -45,7 +45,7 @@ from . import Packet
 
 SNIFFER_OLD_DEFAULT_BAUDRATE = 460800
 # Baudrates that should be tried (add more if required)
-SNIFFER_BAUDRATES = [1000000, 460800]
+SNIFFER_BAUDRATES = [921600, 1000000, 460800]
 
 
 def find_sniffer(write_data=False):
