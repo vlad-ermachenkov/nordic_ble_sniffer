@@ -29,6 +29,7 @@ This manual is provided without any gurantee and author isn't responsible for st
 
 ### Extra
 I've got a picture of my board by seller. 
+
 ![](board.jpg)
 
 And also a link to a [seller](https://aliexpress.ru/item/32919832696.html).
